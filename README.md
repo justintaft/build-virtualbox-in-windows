@@ -108,7 +108,7 @@ The default setting provides disabled-hardening on the VirtualBox binary, so you
 
 A) Unfortunately, now our script does not handle multiple certificates being generated during the Setup step. You need to run it only once unlike the Build step. And here is the solution:
 
-1. Run `certmgr.msc`
+1. Run `certmgr.msc` as administrator
 2. Delete **all the certificates** named `MyTestCertificate` in the `Certificates - Personal`
 3. Start from the Setup step.
 
