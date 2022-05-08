@@ -36,7 +36,8 @@ Before using the scripts, you need to install the followings.
 - [WinDDK 7.1](https://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=11800)
 - [SSL 32bit](https://slproweb.com/download/Win32OpenSSL-1_1_1i.exe)
 - [SSL 64bit](https://slproweb.com/download/Win64OpenSSL-1_1_1i.exe)
-
+- [Python3](https://www.python.org/ftp/python/3.10.4/python-3.10.4-amd64.exe)
+- 
 If at least one of them is not installed properly, you could be in trouble with compile errors afterwards. And, we recommend you install them **in their default paths**.
 
 ### 2. Set Up Privilege
